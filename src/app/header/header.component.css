@@ -1,0 +1,9 @@
+.example-fill-remaining-space {
+  flex: 1 1 auto;
+}
+.brandLogo {
+  width: 100px;
+  height: 100px;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blogger_icon.svg/768px-Blogger_icon.svg.png");
+  background-size: contain;
+}
